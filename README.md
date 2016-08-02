@@ -17,6 +17,12 @@ cd tables
 npm install
 ```
 
+Build it:
+
+``` bash
+npm run build
+```
+
 Run the app:
 
 ``` bash
