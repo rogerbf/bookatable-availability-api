@@ -59,6 +59,8 @@ Included with the request should be a query string with the following parameters
 
 ```salesforceid``` - restaurant id, which corresponds to the attribute ```id``` of the ```<Restaurant>``` element in the ```bookatable-feed.xml``` file.
 
+```language``` - sv-SE
+
 Results are returned as JSON.
 
 ### Example
@@ -66,5 +68,5 @@ Results are returned as JSON.
 Table for two at Agaton on the 30th of August 2016 at 19:00.
 
 ```
-http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-30&19:00&salesforceid=100001
+http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-30&19:00&salesforceid=100001&language=sv-SE
 ```
