@@ -65,8 +65,8 @@ Results are returned as JSON.
 
 ### Example
 
-Table for two at Agaton on the 30th of August 2016 at 19:00.
+Table for two at Tehran grill on the 30th of August 2016 at 19:00.
 
 ```
-http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-30&19:00&salesforceid=100001&language=sv-SE
+http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-30&19:00&salesforceid=112479&language=sv-SE
 ```
