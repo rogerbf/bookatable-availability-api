@@ -68,5 +68,5 @@ Results are returned as JSON.
 Table for two at Taverna Brillo on the 30th of August 2016 at 19:00.
 
 ```
-http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-08&time=19:00&salesforceid=212563&language=sv-SE
+http://www.bookatable.se/bookingflow/availability?covers=2&date=2016-08-30&time=19:00&salesforceid=212563&language=sv-SE
 ```
