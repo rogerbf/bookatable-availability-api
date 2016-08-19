@@ -7,7 +7,7 @@ _(Assuming you have Node.js and npm installed)_
 Clone the code:
 
 ``` bash
-git clone
+git clone https://github.com/rogerbf/bookatable-availability-api.git
 ```
 
 Install dependencies:
